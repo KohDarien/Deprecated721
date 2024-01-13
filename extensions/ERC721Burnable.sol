@@ -2,8 +2,8 @@
 
 pragma solidity ^0.8.20;
 
-import {ERC721} from "../main/ERC721.sol";
-import {Context} from "../../../main/utils/Context.sol";
+import {ERC721} from "https://github.com/KohDarien/ERC721---Ostrich/blob/main/ERC721.sol";
+import {Context} from "https://github.com/KohDarien/ERC721---Ostrich/blob/main/utils/Context.sol";
 
 /**
  * @title ERC-721 Burnable Token

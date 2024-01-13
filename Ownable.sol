@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.20;
 
-import {Context} from "../main/utils/Context.sol";
+import {Context} from "https://github.com/KohDarien/ERC721---Ostrich/blob/main/utils/Context.sol";
 
 /**
  * @dev Contract module which provides a basic access control mechanism, where
