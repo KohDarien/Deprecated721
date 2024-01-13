@@ -3,10 +3,10 @@
 
 pragma solidity ^0.8.20;
 
-import {ERC721} from "../ERC721.sol";
-import {Strings} from "../../../utils/Strings.sol";
-import {IERC4906} from "../../../interfaces/IERC4906.sol";
-import {IERC165} from "../../../interfaces/IERC165.sol";
+import {ERC721} from "../main/ERC721.sol";
+import {Strings} from "../../../main/utils/Strings.sol";
+import {IERC4906} from "../../../main/interfaces/IERC4906.sol";
+import {IERC165} from "../../../main/interfaces/IERC165.sol";
 
 /**
  * @dev ERC-721 token with storage based token URI management.
